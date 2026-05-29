@@ -1,8 +1,9 @@
+<h1 align="center">Emna Ouertani</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=1D9E75&center=true&vCenter=true&width=900&lines=building+AI+systems;cloud+%26+devops+enthusiast;blockchain+analytics;distributed+systems;generative+AI+instructor;hackathon+winner;aws+solutions+architect" />
 </p>
 
-<h1 align="center">emna ouertani<span style="color:#1D9E75">.</span></h1>
 
 <p align="center">
   <code>software engineering student</code> &nbsp;·&nbsp;
@@ -23,54 +24,36 @@
 
 ---
 
-### `~/emna $` _what i'm working with_
-
-```
-AI & ML       →   Python · LangChain · LangGraph · RAG · Qdrant · XGBoost
-Cloud         →   AWS · Azure · Docker · CI/CD · ECS · EC2 · RDS · CloudWatch
-Blockchain    →   Hedera · Ethereum Analytics · Neo4j · NetworkX
-Backend       →   Node.js · NestJS · FastAPI · Spring Boot
-Frontend      →   React · Angular
-Mobile        →   Flutter
-Databases     →   PostgreSQL · MongoDB · MySQL · Neo4j
-```
-
 ---
-
-### `~/emna $` _highlights_
-
-| | |
-|---|---|
-| 🥇 | **LunarHack 2.0** — 1st place |
-| 🥈 | **Hackathon Astrepreneur** — 2nd place |
-| ☁️ | **AWS Solutions Architect Associate** — certified |
-| ⛓️ | **Hedera Certified Foundation** — certified |
-| 🤖 | **Generative AI Instructor** — teaching & mentoring |
-
+## 🚀 About Me
+I'm a Software Engineering student passionate about building production-ready systems using AI, Cloud, and Blockchain technologies.
+### Current Interests
+- ☁️ Cloud & DevOps
+- ⛓️ Blockchain Analytics
+- 🏗️ Distributed Systems
+- 🚀 Scalable Architectures
+- 🤖 Artificial Intelligence
 ---
-
-### `~/emna $` _what i'm into_
-
-```
-☁️  cloud & devops          →   infra that scales
-⛓️  blockchain analytics    →   on-chain data & graph analysis
-🏗️  distributed systems     →   architectures that hold up
-🤖  artificial intelligence →   systems that actually work
-```
-
+## 🛠 Tech Stack
+### AI & Machine Learning
+Python • LangChain • LangGraph • RAG • Qdrant • XGBoost
+### Cloud & DevOps
+AWS • Azure • Docker • CI/CD • ECS • EC2 • RDS • CloudWatch
+### Blockchain
+Hedera • Ethereum Analytics • Neo4j • NetworkX
+### Backend
+Node.js • NestJS • FastAPI • Spring Boot
+### Frontend
+React • Angular
+### Mobile
+Flutter
+### Databases
+MongoDB • PostgreSQL • MySQL • Neo4j
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=1D9E75&icon_color=7F77DD&bg_color=0d1117" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=1D9E75&bg_color=0d1117" />
-</p>
-
+## 🏆 Highlights
+🥇 LunarHack 2.0
+🥈 Hackathon Astrepreneur
+👨‍🏫 Generative AI Instructor
+☁️ AWS Solutions Architect Associate
+⛓️ Hedera Certified Foundation
 ---
-
-<p align="center">
-  <sub>
-    <a href="YOUR_LINKEDIN_URL">linkedin</a> &nbsp;·&nbsp;
-    <a href="mailto:YOUR_EMAIL">email</a>
-  </sub>
-</p>
