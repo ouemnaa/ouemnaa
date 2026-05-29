@@ -47,5 +47,5 @@ Databases     →   PostgreSQL · MongoDB · MySQL · Neo4j
 ```
 ## 🏆 Highlights
 
-🥇 LunarHack 2.0 • 🥈 Astrepreneur • 👨‍🏫 GenAI Instructor (100+ Students) • ☁️ AWS SAA • ⛓️ Hedera Certified Foundation
+☁️ AWS SAA • ⛓️ Hedera Certified Foundation • 🥇 Hackathons • 👨‍🏫 GenAI Instructor (100+ Students) 
 ---
