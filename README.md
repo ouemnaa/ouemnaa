@@ -36,25 +36,57 @@ I'm a 4th-Year Software Engineering student at Faculty of Sciences of Tunisia pa
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FFB000?style=for-the-badge)
 ---
 ## 🛠 Tech Stack
-### AI & Machine Learning
-Python • LangChain • LangGraph • RAG • Qdrant • XGBoost
-### Cloud & DevOps
-AWS • Azure • Docker • CI/CD • ECS • EC2 • RDS • CloudWatch
-### Blockchain
-Hedera • Ethereum Analytics • Neo4j • NetworkX
-### Backend
-Node.js • NestJS • FastAPI • Spring Boot
-### Frontend
-React • Angular
-### Mobile
-Flutter
-### Databases
-MongoDb • PostgreSQL • MySQL • Neo4j
+
+### 🤖 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+
+### ⛓️ Blockchain
+
+![Hedera](https://img.shields.io/badge/Hedera-000000?style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2E8B57?style=for-the-badge)
+
+### ⚙️ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 📱 Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ## 🏆 Highlights
-🥇 LunarHack 2.0
-🥈 Hackathon Astrepreneur
-👨‍🏫 Generative AI Instructor
-☁️ AWS Solutions Architect Associate
-⛓️ Hedera Certified Foundation
+
+🥇 LunarHack 2.0 • 🥈 Astrepreneur • 👨‍🏫 GenAI Instructor (100+ Students) • ☁️ AWS SAA • ⛓️ Hedera Certified Foundation
 ---
