@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=1D9E75&center=true&vCenter=true&width=900&lines=building+AI+systems;cloud+%26+devops+enthusiast;blockchain+analytics;distributed+systems;generative+AI+instructor;hackathon+winner;aws+solutions+architect" />
 </p>
 
+
 <p align="center">
   <code>software engineering student</code> &nbsp;·&nbsp;
   <code>AI systems</code> &nbsp;·&nbsp;
@@ -12,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emna-ouertani-96a3a9286/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href=https://www.linkedin.com/in/emna-ouertani-96a3a9286/><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:ouertaniemna34@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
@@ -23,12 +24,18 @@
 
 ---
 
-4th-year Software Engineering student at Faculty of Sciences of Tunisia — building production-ready systems at the intersection of AI, Cloud, and Blockchain.
-
 ---
+## 🚀 About Me
+I'm a 4th-Year Software Engineering student at Faculty of Sciences of Tunisia passionate about building production-ready systems using AI, Cloud, and Blockchain technologies.
+### 🎯 Current Interests
 
-### `~/emna $` _stack_
-
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-0078D4?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-FF6B35?style=for-the-badge)
+![Scalable Architectures](https://img.shields.io/badge/Scalable%20Architectures-6A5ACD?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FFB000?style=for-the-badge)
+---
+## 🛠 Tech Stack
 ```
 AI & ML       →   Python · LangChain · LangGraph · RAG · Qdrant · XGBoost
 Cloud         →   AWS · Azure · Docker · CI/CD · ECS · EC2 · RDS · CloudWatch
@@ -38,10 +45,7 @@ Frontend      →   React · Angular
 Mobile        →   Flutter
 Databases     →   PostgreSQL · MongoDB · MySQL · Neo4j
 ```
-
----
-
-### `~/emna $` _highlights_
+## 🏆 Highlights
 
 | | |
 |---|---|
@@ -52,18 +56,3 @@ Databases     →   PostgreSQL · MongoDB · MySQL · Neo4j
 | ⛓️ | **Hedera Certified Foundation** — certified |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emna-ouertani&show_icons=true&theme=dark&hide_border=true&title_color=1D9E75&icon_color=7F77DD&bg_color=0d1117" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emna-ouertani&layout=compact&theme=dark&hide_border=true&title_color=1D9E75&bg_color=0d1117" />
-</p>
-
----
-
-<p align="center">
-  <sub>
-    <a href="https://www.linkedin.com/in/emna-ouertani-96a3a9286/">linkedin</a> &nbsp;·&nbsp;
-    <a href="mailto:ouertaniemna34@gmail.com">email</a>
-  </sub>
-</p>
