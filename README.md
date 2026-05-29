@@ -5,7 +5,7 @@ Software Engineer • AI Systems • Cloud Architecture • Blockchain Analytics
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;AWS+Solutions+Architect+Associate;AI+Systems+Builder;Cloud+and+DevOps+Engineer;Blockchain+Forensics+Enthusiast;Hackathon+Winner;Generative+AI+Instructor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;AWS+Solutions+Architect+Associate;AI+Systems+Builder;Cloud+and+DevOps+Enthusiast;Blockchain+Enthusiast;Hackathon+Winner;Generative+AI+Instructor" />
 </p>
 
 ---
