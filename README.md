@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href=https://www.linkedin.com/in/emna-ouertani-96a3a9286/><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
