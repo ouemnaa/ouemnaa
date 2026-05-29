@@ -1,7 +1,7 @@
 <h1 align="center">Emna Ouertani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=1D9E75&center=true&vCenter=true&width=900&lines=building+AI+systems;cloud+%26+devops+enthusiast;blockchain+analytics;distributed+systems;generative+AI+instructor;hackathon+winner;aws+solutions+architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2800&pause=1000&color=1D9E75&center=true&vCenter=true&width=900&lines=building+AI+systems;cloud+%26+devops+enthusiast;blockchain+analytics;distributed+systems;aws+solutions+architect" />
 </p>
 
 
