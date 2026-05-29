@@ -47,12 +47,5 @@ Databases     →   PostgreSQL · MongoDB · MySQL · Neo4j
 ```
 ## 🏆 Highlights
 
-| | |
-|---|---|
-| 🥇 | **LunarHack 2.0** — 1st place |
-| 🥈 | **Hackathon Astrepreneur** — 2nd place |
-| 🤖 | **Generative AI Instructor** — 100+ students |
-| ☁️ | **AWS Solutions Architect Associate** — certified |
-| ⛓️ | **Hedera Certified Foundation** — certified |
-
+🥇 LunarHack 2.0 • 🥈 Astrepreneur • 👨‍🏫 GenAI Instructor (100+ Students) • ☁️ AWS SAA • ⛓️ Hedera Certified Foundation
 ---
