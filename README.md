@@ -26,7 +26,7 @@
 
 ---
 ## 🚀 About Me
-I'm a Software Engineering student passionate about building production-ready systems using AI, Cloud, and Blockchain technologies.
+I'm a 4th-Year Software Engineering student at Faculty of Sciences of Tunisia passionate about building production-ready systems using AI, Cloud, and Blockchain technologies.
 ### Current Interests
 - ☁️ Cloud & DevOps
 - ⛓️ Blockchain Analytics
