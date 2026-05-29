@@ -25,7 +25,7 @@
 ---
 
 ---
-## 🚀 About Me
+## About Me
 I'm a 4th-Year Software Engineering student at Faculty of Sciences of Tunisia passionate about building production-ready systems using AI, Cloud, and Blockchain technologies.
 
 ![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-0078D4?style=for-the-badge)
@@ -44,7 +44,7 @@ Frontend      →   React · Angular
 Mobile        →   Flutter
 Databases     →   PostgreSQL · MongoDB · MySQL · Neo4j
 ```
-## 🏆 Highlights
+## Highlights
 
 ☁️ AWS SAA • ⛓️ Hedera Certified Foundation • 🥇 Hackathons • 👨‍🏫 GenAI Instructor (100+ Students) 
 ---
