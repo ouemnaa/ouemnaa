@@ -27,12 +27,13 @@
 ---
 ## 🚀 About Me
 I'm a 4th-Year Software Engineering student at Faculty of Sciences of Tunisia passionate about building production-ready systems using AI, Cloud, and Blockchain technologies.
-### Current Interests
-- ☁️ Cloud & DevOps
-- ⛓️ Blockchain Analytics
-- 🏗️ Distributed Systems
-- 🚀 Scalable Architectures
-- 🤖 Artificial Intelligence
+### 🎯 Current Interests
+
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-0078D4?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-FF6B35?style=for-the-badge)
+![Scalable Architectures](https://img.shields.io/badge/Scalable%20Architectures-6A5ACD?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FFB000?style=for-the-badge)
 ---
 ## 🛠 Tech Stack
 ### AI & Machine Learning
@@ -48,8 +49,8 @@ React • Angular
 ### Mobile
 Flutter
 ### Databases
-MongoDB • PostgreSQL • MySQL • Neo4j
----
+MongoDb • PostgreSQL • MySQL • Neo4j
+
 ## 🏆 Highlights
 🥇 LunarHack 2.0
 🥈 Hackathon Astrepreneur
