@@ -17,8 +17,6 @@
   &nbsp;
   <a href="mailto:ouertaniemna34@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/based_in-tunisia-1D9E75?style=flat-square" />
-  &nbsp;
   <img src="https://img.shields.io/badge/open_to-work-%237F77DD?style=flat-square" />
 </p>
 
